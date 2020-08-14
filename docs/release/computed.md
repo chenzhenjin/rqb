@@ -1,8 +1,11 @@
 # computed
+
 ### 当作函数进行传参时
+
 - 需要设置闭包
 - 闭包的匿名函数接收参数
-- this指向
+- this 指向
+
 ```
   conputed:{
     showPrice(){
