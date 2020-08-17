@@ -1,10 +1,6 @@
 node_modules/
-assets/
-release/
-404.html
-index.html
-logo.png
 package.json
 README.md
 yarn.lock
 docs/
+rqb/
