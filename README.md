@@ -1,6 +1,9 @@
 ### vuepress搭建的博客静态网站
 - 目前github在线浏览有点问题，不过还是先留着链接
 - [在线博客链接](https://chenzhenjin.github.io/rqb/)
+#### 编写说明
+- docs的readme.md用来写首页  
+- .vuepress用来写博客文章
 #### 使用说明
 - 安装依赖 yarn 
 - 本地开发运行 npm run docs:dev
